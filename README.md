@@ -1,4 +1,5 @@
-   esx_gym
+esx_gym
+
 Custom icons
 Ready items
 Ready esx_basicneeds
